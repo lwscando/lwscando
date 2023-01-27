@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lwscando
 - 👀 I’m interested in ...I'm a front-end WordPress Developer
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... CrocoBlock, Elementor
+- 💞️ I’m looking to collaborate on ... JetEngine, Elementor
 - 📫 How to reach me: communications@golighthouse.com
 
 <!---
